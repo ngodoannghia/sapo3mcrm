@@ -1,0 +1,9 @@
+D:\21ngay\21ngaydem\HttpRequests\bin\Debug\HttpRequests.dll
+D:\21ngay\21ngaydem\HttpRequests\bin\Debug\HttpRequests.pdb
+D:\21ngay\21ngaydem\HttpRequests\bin\Debug\Newtonsoft.Json.dll
+D:\21ngay\21ngaydem\HttpRequests\bin\Debug\Newtonsoft.Json.xml
+D:\21ngay\21ngaydem\HttpRequests\obj\Debug\HttpRequests.csprojAssemblyReference.cache
+D:\21ngay\21ngaydem\HttpRequests\obj\Debug\HttpRequests.csproj.CoreCompileInputs.cache
+D:\21ngay\21ngaydem\HttpRequests\obj\Debug\HttpRequests.csproj.CopyComplete
+D:\21ngay\21ngaydem\HttpRequests\obj\Debug\HttpRequests.dll
+D:\21ngay\21ngaydem\HttpRequests\obj\Debug\HttpRequests.pdb
